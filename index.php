@@ -339,11 +339,3 @@
 <script src="/script.js"></script>
 </body>
 </html>
-
-<!--
-
-
-СЛЕДУЮЩИЙ ПЯТЫЙ УРОК
-
-
--->
